@@ -11,7 +11,8 @@ This application runs on
 
 Download URL: https://play.google.com/store/apps/details?id=com.jjimlmg.bondbuilder.augmentedimage
 element_markers.pptx file, which contains printable markers, you need to cut it with scissors along the circular marker shape.
-instructions.pdf file, which contains instructions to use the app
+instructions.pdf file, which contains instructions to use the app.
+
 We uploaded the video clip of using our app: m.site.naver.com/13f6L
 
 Our app was used and explained in detail in these academic papers:
